@@ -5,6 +5,6 @@ modal-id: 1
 img: swach.jpg
 alt: image-alt
 
-description:This is a platform where people can clean the places and friends can also join as a team,challenge others!!
+description: This is a platform where people can clean the places and friends can also join as a team,challenge others!!
 
 ---
